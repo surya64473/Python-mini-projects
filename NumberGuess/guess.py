@@ -1,3 +1,4 @@
+# This is Guess game made with Python
 import random
 
 num = random.randint(1, 10)
