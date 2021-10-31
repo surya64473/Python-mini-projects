@@ -1,6 +1,7 @@
 # Python-mini-projects
 
-Repository
+This Repository contains many awesome Python Mini Projects in which each and every project will teach you some new and important concept.
+You can learn while making new contributions and building mini projects.
 
 ## Installation
 
